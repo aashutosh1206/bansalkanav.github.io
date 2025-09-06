@@ -7,6 +7,9 @@
 (function($) {
   "use strict"; // Start of use strict
 
+
+  // hello weare learning javascript
+
   // Closes the sidebar menu
   $("#menu-close").click(function(e) {
     e.preventDefault();
